@@ -2,7 +2,7 @@ This is just a working log I wrote to remind myself how I did it.
 just like a digital diary.
 
 ## 16 September 2024
-1. Created project
+1. Created project, named it `Final Project`
 2. added dependencies in `build.gradle`
    ```bash
      testImplementation 'org.junit.vintage:junit-vintage-engine:5.11.0'
@@ -19,7 +19,7 @@ point the yellow underline and click `create step definition`. but before that, 
    Scenario: Test get list data normal
    Given prepare URL valid for get list data
 
-5. point the yellow underline and click `create step definition`, created a new file and named it `ApiStep.java`.
+5. point the yellow underline and clicked `create step definition`, created a new file and named it `ApiStep.java`.
 it automatically wrote a methode for 'ApiStep'. made a `println` statement to test it but failed.
 Now I'm waiting for mentor's feedback before continue.
 
